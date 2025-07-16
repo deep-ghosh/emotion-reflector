@@ -1,0 +1,5 @@
+The file models/facialemotionmodel.h5 is a binary file that contains the weights of the trained emotion recognition model. It cannot be generated as plain text or code. To create this file, you would typically train a model using a script (like src/train_model.py) and save the model weights using Keras or TensorFlow.
+
+If you need to create this file, you should run the training script that saves the model weights to this location. If you already have a trained model, you should place the .h5 file in the specified directory. 
+
+If you need further assistance with the training script or how to save the model, please let me know!
